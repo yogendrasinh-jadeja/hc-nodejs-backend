@@ -1,0 +1,9 @@
+# Ignore node_modules in all subdirectories
+01_Web_Server/node_modules/
+02_Express/node_modules/
+VIDTUBE/node_modules/
+
+#ignore env 
+
+VIDTUBE/.env=
+VIDTUBE/.env.sample
