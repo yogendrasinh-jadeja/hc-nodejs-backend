@@ -10,6 +10,6 @@ VIDTUBE/.env.sample
 
 #ignore package.lock
 
-01_Web_Server/package-lock.json/
-02_Express/package-lock.json/
-VIDTUBE/package-lock.json/
+01_Web_Server/package-lock.json
+02_Express/package-lock.json
+VIDTUBE/package-lock.json
