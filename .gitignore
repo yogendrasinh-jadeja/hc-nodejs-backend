@@ -5,5 +5,5 @@ VIDTUBE/node_modules/
 
 #ignore env 
 
-VIDTUBE/.env=
+VIDTUBE/.env
 VIDTUBE/.env.sample
